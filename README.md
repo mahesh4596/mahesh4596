@@ -98,7 +98,7 @@ A full grocery e-commerce site built for a real store, covering the whole shoppi
 **Backend:** Node.js · Express · MongoDB (Mongoose) · Razorpay (payments)
 
 [![Repo](https://img.shields.io/badge/Repository-View_Code-24292E?style=flat-square&logo=github&logoColor=white)](https://github.com/mahesh4596/shiv-shakti-general-store)
-[![Android APK](https://img.shields.io/badge/Android-Download_APK-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/mahesh4596/shiv-shakti-general-store/releases/latest)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Site-F59E0B?style=flat-square&logo=vercel&logoColor=white)](https://ssgs-delta.vercel.app/)
 
 </td>
 </tr>
