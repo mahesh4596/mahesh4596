@@ -148,23 +148,36 @@ I keep my problem-solving sharp on LeetCode and GeeksforGeeks — mostly arrays,
 
 <br/>
 
-## Milestones
+## 🏆 Hackathons & Achievements
 
-- 🏆 Participated in hackathons
-- 📜 Hold hackathon participation certificates
+<table>
+<tr>
+<td>
+
+**🏆 Adobe University Hackathon**  
+Participant · Adobe · 2026
+
+</td>
+<td>
+
+**🏆 SATHACK'25**  
+Participant · 2025
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+**🎯 Cipher Sprint: Decode the Run, Win the Fun**  
+Event Organiser · Chitkara University · 2024
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mahesh4596&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F59E0B&icon_color=F59E0B" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh4596&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F59E0B" alt="Top languages" height="165"/>
-
-</div>
-
-<br/>
 
 ## Let's Connect
 
