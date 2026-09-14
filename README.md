@@ -69,7 +69,7 @@ A full-stack platform connecting **medicine donors** with **people in need**, bu
 **Backend:** Node.js · Express · MongoDB (Mongoose) · Cloudinary · Tesseract.js (OCR) · node-cron
 
 [![Repo](https://img.shields.io/badge/Repository-View_Code-24292E?style=flat-square&logo=github&logoColor=white)](https://github.com/mahesh4596/MediHope)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-medihope.vercel.app-F59E0B?style=flat-square&logo=vercel&logoColor=white)](https://medihope.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Site-F59E0B?style=flat-square&logo=vercel&logoColor=white)](https://medihope.vercel.app)
 
 </td>
 </tr>
